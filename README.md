@@ -1,4 +1,5 @@
 # bright-path-futures-app
 
 
-Bright path futures challenge project work
+Text colour #17202A
+Background colour #F7F9FB
